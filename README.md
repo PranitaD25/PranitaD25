@@ -14,7 +14,7 @@
   <a href="https://github.com/PranitaD25">
     <img src="https://img.shields.io/badge/GitHub-PranitaD25-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/pranita-pandurang-deshpande/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -137,7 +137,7 @@ I'm interested in Android engineering, mobile application architecture, and buil
   <a href="https://github.com/PranitaD25">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/pranita-pandurang-deshpande/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
   </a>
 </p>
